@@ -97,4 +97,5 @@ id,location,address,area_m2,rooms,price_$,built_year,for_sale,total_rooms,total_
 96,Fergana,96th house, Fergana,225,6,152000,1996,no,534,100,209.85,139210.0,1987
 97,Khorezm,97th house, Khorezm,240,6,168000,2010,yes,534,100,209.85,139210.0,1987
 98,Navoi,98th house, Navoi,260,7,195000,1989,no,534,100,209.85,139210.0,1987
-99,Kashkadarya,99th house, Kashkad
+99,Kashkadarya,99th house, Kashkadarya,285,7,218000,2010,yes,534,100,209.85,139210.0,1987
+
